@@ -1,0 +1,24 @@
+{
+  "name": "random-strng-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimerdev/random-strng-msg.git"
+  },
+  "keywords": [],
+  "author": "Jaime Guerrero <jaime.lgr97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimerdev/random-strng-msg/issues"
+  },
+  "homepage": "https://github.com/jaimerdev/random-strng-msg#readme",
+  "bin": {
+    "random-strng-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
